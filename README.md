@@ -1,1 +1,3 @@
-# node-server
+# Node-Server
+
+Vi skal opbygge en node server fra grunden.
